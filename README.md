@@ -1,16 +1,24 @@
-### Hi there 👋
+}------------------------------------ Hi there 👋 ------------------------------------{
 
-<!--
-**TheOriginalVibes/TheOriginalVibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🔭 I’m working on a bunch of APIs and private projects.
 
-Here are some ideas to get you started:
+}----------------------------------- Social Media -------------------------------------{
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🍃 Discord: 𝓥 𝓲 𝕓  ̷e̷  𝓼 ᵒʳⁱᵍⁱⁿᵃˡ#1025
+* 🍁 Twitter: none
+* 🍂 Twitch: none
+* 💫 YouTube: none
+
+}---------------------------------- Active Projects ------------------------------------{
+
+*
+*   Currently the most time consuming project is my own **Minecraft Server. (Outdated)
+*
+
+}---------------------------------- 🚨 Warning 🚨 -----------------------------------{
+
+*
+* 🚧 Copyright (C) 2020 Viiiiibes
+*
+
+}---------------------------------------------------------------------------------------{
